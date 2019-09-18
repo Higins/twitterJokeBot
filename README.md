@@ -1,3 +1,4 @@
+
 #  Twitter Joke Bot
 
 ### Install
@@ -5,9 +6,10 @@ Run in terminal
 `npm install`
 
 ### Config
-Get your keys from https://developer.twitter.com/
-Copy config_example.js to config.js
-And insert it your keys to config file.
+
+ 1. Get your keys from https://developer.twitter.com/ 
+ 2. Copy config_example.js to config.js 
+ 3. And insert it your keys to config file.
 
 ### Run
 `node bot.js`
