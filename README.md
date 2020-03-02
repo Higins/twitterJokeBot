@@ -3,6 +3,7 @@
 
 ### Install
 Run in terminal
+`git clone https://github.com/Higins/twitterJokeBot.git`
 `npm install`
 
 ### Config
